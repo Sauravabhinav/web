@@ -35,8 +35,8 @@ header{
 }
 .logo img{
 	max-width: 150%;
-	width: 200px;
-	height: auto;
+	width: 130px;
+	height: 40px;
 }
 .navlist{
 	display: flex;
@@ -434,7 +434,7 @@ header.sticky{
 	justify-content: center;
 	text-align: center;
 	border-radius: 12px;
-	background-image: url(../img/intro.png);
+	background-image: url(../img/intro2.png);
 	background-size: cover;
 }
 .center h3{
